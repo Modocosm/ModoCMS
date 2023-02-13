@@ -1,0 +1,23 @@
+{
+  "name": "modocms",
+  "version": "0.9.78",
+  "description": "MODOCMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Modocosm/ModoCMS.git"
+  },
+  "author": "Modocosm/JugaadiTech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Modocosm/ModoCMS/issues"
+  },
+  "homepage": "https://github.com/Modocosm/ModoCMS#readme",
+  "dependencies": {
+    "pg": "^8.9.0",
+    "pnpm": "^7.27.0"
+  }
+}
